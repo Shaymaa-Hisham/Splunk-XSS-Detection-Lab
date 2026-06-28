@@ -173,17 +173,34 @@ SOC Analyst Investigation
   
 ---
 
+
 <div align="center">
 
 ## 👩‍💻 Author
 
 # Shaymaa Hisham
 
-Cybersecurity Enthusiast | SOC Analyst | SIEM | Splunk
+Cybersecurity | SOC Analyst | SIEM | Splunk
 
-⭐ If you found this project useful, don't forget to star the repository.
+<p>
 
-⭐ Thank you for visiting this repository.
+<a href="https://github.com/Shaymaa-Hisham">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shaymaahisham/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://youtu.be/-MvQjQNHAwM">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</p>
+
+⭐ If you found this project helpful, consider giving it a star. 
+<p> ⭐ Thank you for visiting this repository. </p>
+
 
 </div>
 
