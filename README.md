@@ -49,15 +49,6 @@ A realistic attack was simulated from Kali Linux against a vulnerable BlackPearl
 </p>
 
 
-
----
-## 🎥 Video Demonstration
-
-👉 **Watch the full project demonstration on YouTube**
-
-[![Watch on YouTube](https://img.shields.io/badge/▶-Watch%20Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/-MvQjQNHAwM)
-
-
 ---
 ## 🖥️ Lab Environment
 
@@ -95,16 +86,6 @@ Real-Time Alert
       ▼
 SOC Analyst Investigation
 ```
-
-1. Launch an XSS attack from Kali Linux.
-2. The vulnerable BlackPearl server receives the malicious payload.
-3. Nginx logs capture the request.
-4. Splunk Universal Forwarder collects the logs.
-5. Logs are forwarded to Splunk Enterprise.
-6. SPL queries identify suspicious activity.
-7. Splunk generates a security alert.
-8. The SOC analyst investigates the event.
-
 ---
 
 ## 📸 Project Screenshots
@@ -170,16 +151,27 @@ SOC Analyst Investigation
 ➡️ **[📄 Splunk XSS Detection Lab Documentation](Documentation/Splunk-XSS-Detection-Lab%20-28%20June%202026.pdf)**
 
 ---
+## 🎥 Video Demonstration
+
+📺 Watch the complete project demonstration:
+
+[![Watch on YouTube](https://img.shields.io/badge/▶-Watch%20Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/-MvQjQNHAwM)
+
+---
 
 ## 🚀 Future Improvements
 
 - SQL Injection Detection
 - Brute Force Detection
 - Correlation Searches
-- Advanced Dashboards
+- Interactive Dashboards
 - Email Alerting
-
+- Threat Intelligence Integration
+  
 ---
+<p align="center">
+<img src="Images/banner.png">
+</p>
 
 ## 👩‍💻 Author
 
