@@ -17,15 +17,19 @@
 </p>
 
 
+<img src="Images/banner.png" width="900">
+
+<br>
 
 <p align="center">
 
 <a href="https://youtu.be/-MvQjQNHAwM">
-<img src="https://img.shields.io/badge/_Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/_Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"  width="250"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="Documentation/Splunk-XSS-Detection-Lab%20-28%20June%202026.pdf">
-<img src="https://img.shields.io/badge/📄_Documentation-PDF-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📄_Documentation-PDF-0A66C2?style=for-the-badge" width="250"/>
 </a>
 
 </p>
