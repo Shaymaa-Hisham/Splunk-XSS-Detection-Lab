@@ -148,13 +148,19 @@ SOC Analyst Investigation
 - XSS Detection
 
 ---
+
+
 ## 📄 Documentation
 
 📥 Download the complete project documentation here:
-
-➡️ **[📄 Splunk XSS Detection Lab Documentation](Documentation/Splunk-XSS-Detection-Lab%20-28%20June%202026.pdf)**
+<p>
+<a href="Documentation/Splunk-XSS-Detection-Lab%20-28%20June%202026.pdf">
+<img src="https://img.shields.io/badge/📄_Documentation-PDF-0A66C2?style=for-the-badge"/>
+</a>
+</p>
 
 ---
+
 ## 🎥 Video Demonstration
 
 📺 Watch the complete project demonstration:
