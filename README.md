@@ -22,12 +22,33 @@
 </div>
 
 ---
-
-## Overview
+# 📖 Project Overview
 
 This project demonstrates an end-to-end Security Operations Center (SOC) workflow for detecting Cross-Site Scripting (XSS) attacks using Splunk Enterprise.
 
-The lab simulates a realistic attack scenario using Kali Linux against a vulnerable BlackPearl web server. Logs are collected through Splunk Universal Forwarder, analyzed using SPL queries, and transformed into actionable security alerts.
+A realistic attack was simulated from Kali Linux against a vulnerable BlackPearl web application. The generated Nginx logs were collected using Splunk Universal Forwarder, analyzed with SPL queries, and transformed into actionable security alerts for investigation.
+
+---
+## ⭐ Project Highlights
+
+- Built a complete SOC lab environment
+- Simulated a real XSS attack
+- Centralized Nginx log collection
+- Developed custom SPL detection queries
+- Configured real-time security alerts
+- Performed incident investigation
+- Produced complete technical documentation
+
+---
+## 🏗️ Lab Architecture
+
+<p align="center">
+
+<img src="Images/Architecture.png" width="900">
+
+</p>
+
+
 
 ---
 ## 🎥 Video Demonstration
@@ -38,24 +59,42 @@ The lab simulates a realistic attack scenario using Kali Linux against a vulnera
 
 
 ---
-
-## 🏗️ Lab Architecture
-
-![Architecture](Images/Architecture.png)
-
----
-
 ## 🖥️ Lab Environment
 
-| Machine | Role |
-|----------|----------|
-| Windows Server | Splunk Enterprise |
-| Debian Linux | BlackPearl Web Server |
-| Kali Linux | Attacker Machine |
+| Machine | Operating System | Role |
+|---------|------------------|------|
+| Splunk Enterprise | Windows Server | SIEM Platform |
+| BlackPearl | Debian Linux | Vulnerable Web Server |
+| Kali Linux | Kali Linux | Attacker Machine |
 
 ---
 
 ## 🔄 Attack Workflow
+
+```text
+Kali Linux
+      │
+      ▼
+BlackPearl Web Server
+      │
+      ▼
+Nginx Access Logs
+      │
+      ▼
+Splunk Universal Forwarder
+      │
+      ▼
+Splunk Enterprise
+      │
+      ▼
+SPL Detection
+      │
+      ▼
+Real-Time Alert
+      │
+      ▼
+SOC Analyst Investigation
+```
 
 1. Launch an XSS attack from Kali Linux.
 2. The vulnerable BlackPearl server receives the malicious payload.
@@ -68,61 +107,67 @@ The lab simulates a realistic attack scenario using Kali Linux against a vulnera
 
 ---
 
-## 📸 Screenshots
+## 📸 Project Screenshots
 
-### Splunk Login
+### Architecture
 
-![Splunk Login](Images/Splunk%20Login.png)
-
-### Search Results
-
-![Search Results](Images/Search.png)
-
-### XSS Detection Alert
-
-![XSS Detection Alert](Images/XSS%20Detection%20Alert.png)
-
-### Triggered Alerts
-
-![Triggered Alerts](Images/Triggered%20Alerts.png)
-
-
+<img src="Images/Architecture.png">
 
 ---
 
-## 🛠️ Technologies Used
+### Splunk Login
+
+<img src="Images/Splunk Login.png">
+
+---
+
+### Search Results
+
+<img src="Images/Search.png">
+
+---
+
+### XSS Detection Alert
+
+<img src="Images/XSS Detection Alert.png">
+
+---
+
+### Triggered Alerts
+
+<img src="Images/Triggered Alerts.png">
+
+---
+
+## ⚙️ Technologies Used
 
 - Splunk Enterprise
 - Splunk Universal Forwarder
 - Kali Linux
-- Debian Linux
-- Nginx
-- PHP
-- SPL (Search Processing Language)
+- Search Processing Language (SPL)
 - SIEM
 
 ---
 
 ## 💡 Skills Demonstrated
 
+- SIEM Deployment
 - Security Monitoring
 - Log Analysis
 - SPL Query Development
-- Incident Investigation
 - Alert Configuration
-- SOC Operations
-- SIEM Administration
+- Incident Investigation
 - Linux Administration
 - Windows Administration
+- SOC Workflow
 - XSS Detection
 
 ---
-
 ## 📄 Documentation
 
-📥 **Download the complete project documentation**
+📥 Download the complete project documentation here:
 
-[📄 Splunk XSS Detection Lab Documentation](Documentation/Splunk-XSS-Detection-Lab%20-28%20June%202026.pdf)
+➡️ **[📄 Splunk XSS Detection Lab Documentation](Documentation/Splunk-XSS-Detection-Lab%20-28%20June%202026.pdf)**
 
 ---
 
