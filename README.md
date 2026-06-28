@@ -87,36 +87,19 @@ Real-Time Alert
 SOC Analyst Investigation
 ```
 ---
-
 ## 📸 Project Screenshots
 
-### Architecture
+| Architecture | Splunk Login |
+|--------------|--------------|
+| <img src="Images/Architecture.png" width="450"> | <img src="Images/Splunk Login.png" width="450"> |
 
-<img src="Images/Architecture.png">
+| Search Results | XSS Detection Alert |
+|----------------|------------------|
+| <img src="Images/Search.png" width="450"> |<img src="Images/XSS Detection Alert.png" width="450">|
 
----
-
-### Splunk Login
-
-<img src="Images/Splunk Login.png">
-
----
-
-### Search Results
-
-<img src="Images/Search.png">
-
----
-
-### XSS Detection Alert
-
-<img src="Images/XSS Detection Alert.png">
-
----
-
-### Triggered Alerts
-
-<img src="Images/Triggered Alerts.png">
+| Triggered Alerts| |
+|----------------------|--|
+| <img src="Images/Triggered Alerts.png" width="450">  | |
 
 ---
 
