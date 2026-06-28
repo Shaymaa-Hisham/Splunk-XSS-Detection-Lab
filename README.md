@@ -7,12 +7,12 @@ This project demonstrates an end-to-end Security Operations Center (SOC) workflo
 The lab simulates a realistic attack scenario using Kali Linux against a vulnerable BlackPearl web server. Logs are collected through Splunk Universal Forwarder, analyzed using SPL queries, and transformed into actionable security alerts.
 
 ---
-
 ## 🎥 Video Demonstration
 
-Watch the full project demo:
+👉 **Watch the full project demonstration on YouTube**
 
-https://youtu.be/-MvQjQNHAwM
+[![Watch on YouTube](https://img.shields.io/badge/▶-Watch%20Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/-MvQjQNHAwM)
+
 
 ---
 
@@ -97,9 +97,9 @@ https://youtu.be/-MvQjQNHAwM
 
 ## 📄 Documentation
 
-Detailed project documentation is available in:
+📥 **Download the complete project documentation**
 
-`Documentation/Splunk-XSS-Detection-Lab-Documentation.pdf`
+[📄 Splunk XSS Detection Lab Documentation](Documentation/Splunk-XSS-Detection-Lab%20-28%20June%202026.pdf)
 
 ---
 
