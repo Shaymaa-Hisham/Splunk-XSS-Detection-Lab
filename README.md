@@ -61,6 +61,7 @@ A realistic attack was simulated from Kali Linux against a vulnerable BlackPearl
 ---
 
 ## 🔄 Attack Workflow
+<div align="center">
 
 ```text
 Kali Linux
@@ -86,7 +87,11 @@ Real-Time Alert
       ▼
 SOC Analyst Investigation
 ```
+</div>
+
+
 ---
+
 ## 📸 Project Screenshots
 
 | Architecture | Splunk Login |
@@ -97,9 +102,13 @@ SOC Analyst Investigation
 |----------------|------------------|
 | <img src="Images/Search.png" width="450"> |<img src="Images/XSS Detection Alert.png" width="450">|
 
+<div align="center">
+
 | Triggered Alerts| |
 |----------------------|--|
-| <img src="Images/Triggered Alerts.png" width="450">  | |
+| <img src="Images/Triggered Alerts.png" width="900">  | |
+
+</div>
 
 ---
 
