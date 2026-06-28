@@ -169,12 +169,16 @@ SOC Analyst Investigation
 - Threat Intelligence Integration
   
 ---
-<p align="center">
-<img src="Images/banner.png">
-</p>
+
+<div align="center">
 
 ## 👩‍💻 Author
 
-**Shaymaa Hisham**
+# Shaymaa Hisham
 
-Cybersecurity | SOC Analyst | Splunk Enthusiast
+Cybersecurity Enthusiast | SOC Analyst | SIEM | Splunk
+
+⭐ If you found this project useful, don't forget to star the repository.
+
+</div>
+
