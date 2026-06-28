@@ -165,8 +165,11 @@ SOC Analyst Investigation
 ## 🎥 Video Demonstration
 
 📺 Watch the complete project demonstration:
-
-[![Watch on YouTube](https://img.shields.io/badge/▶-Watch%20Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/-MvQjQNHAwM)
+<p>
+<a href="https://youtu.be/-MvQjQNHAwM">
+<img src="https://img.shields.io/badge/_Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+</p>
 
 ---
 
