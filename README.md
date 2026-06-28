@@ -16,8 +16,19 @@
 
 </p>
 
-[🎥 Watch Demo](https://youtu.be/-MvQjQNHAwM) •
-[📄 Documentation](Documentation/Splunk-XSS-Detection-Lab%20-28%20June%202026.pdf)
+
+
+<p align="center">
+
+<a href="https://youtu.be/-MvQjQNHAwM">
+<img src="https://img.shields.io/badge/_Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="Documentation/Splunk-XSS-Detection-Lab%20-28%20June%202026.pdf">
+<img src="https://img.shields.io/badge/📄_Documentation-PDF-0A66C2?style=for-the-badge"/>
+</a>
+
+</p>
 
 </div>
 
