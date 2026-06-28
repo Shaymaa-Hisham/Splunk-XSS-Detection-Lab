@@ -180,5 +180,7 @@ Cybersecurity Enthusiast | SOC Analyst | SIEM | Splunk
 
 ⭐ If you found this project useful, don't forget to star the repository.
 
+⭐ Thank you for visiting this repository.
+
 </div>
 
