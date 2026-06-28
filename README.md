@@ -1,4 +1,27 @@
+<div align="center">
+
 # 🛡️ Splunk XSS Detection Lab
+
+### End-to-End SOC Project for Detecting Cross-Site Scripting (XSS) Attacks using Splunk Enterprise
+
+<p>
+
+<img src="https://img.shields.io/badge/SIEM-Splunk-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SOC-Blue%20Team-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Attack-XSS-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Debian%20%7C%20Kali-orange?style=for-the-badge"/>
+
+</p>
+
+[🎥 Watch Demo](https://youtu.be/-MvQjQNHAwM) •
+[📄 Documentation](Documentation/Splunk-XSS-Detection-Lab%20-28%20June%202026.pdf)
+
+</div>
+
+---
 
 ## Overview
 
